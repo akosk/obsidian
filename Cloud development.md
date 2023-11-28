@@ -1,0 +1,1 @@
+A felhőalapú fejlesztés egy olyan módszer ahol az erőforrások a felhőben helyezkednek el. Erőforrás lehet fizikai hardverelem(szerverek, háttértárak) vagy egy felhőszolgáltatás (IaaS,PaaS,SaaS, Faas, stb...)
